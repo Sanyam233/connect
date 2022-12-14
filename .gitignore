@@ -1,0 +1,9 @@
+dummy.js
+
+#Server
+/server/node_modules
+/server/.env
+
+
+#client
+/client/connect/node_modules
